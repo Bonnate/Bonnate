@@ -20,7 +20,11 @@
   
 <br/>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonnate&show_icons=true&count_private=true&hide=issues&border_radius=10&border_color=000000&bg_color=60,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=my__stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnate&layout=compact&count_private=true&border_radius=10&border_color=000000&bg_color=30,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=my__languages)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonnate&show_icons=true&count_private=true&border_radius=10&border_color=000000&bg_color=60,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=my__stats)
+
+<br/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnate&layout=compact&count_private=true&border_radius=10&border_color=000000&bg_color=30,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=my__languages)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 📑 블로그(티스토리)
