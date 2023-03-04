@@ -21,8 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnate&layout=compact&count_private=true&card_width=445&border_radius=5&border_color=000000&bg_color=30,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=💻LANGUAGES)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bonnate)](https://github.com/anuraghazra/github-readme-stats)</br></br>
-
 > My Works 🛠
 
 📑 블로그(티스토리) https://bonnate.tistory.com</br>
