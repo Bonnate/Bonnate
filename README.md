@@ -1,3 +1,4 @@
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbonnate%2Fhit-counter&count_bg=%23007EFF&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Bonnate)
 
 </br>
@@ -16,11 +17,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff"></br></br>
 
 > My Activities 🛠
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonnate&show_icons=true&count_private=true&card_width=495&border_radius=5&border_color=000000&bg_color=60,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=📈STATS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnate&layout=compact&count_private=true&card_width=445&border_radius=5&border_color=000000&bg_color=30,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=💻LANGUAGES)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnate&layout=compact&count_private=true&card_width=445&border_radius=5&border_color=000000&bg_color=30,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=💻LANGUAGES)
+</br></br>
 > My Works 🛠
 
 📑 블로그(티스토리) https://bonnate.tistory.com</br>
