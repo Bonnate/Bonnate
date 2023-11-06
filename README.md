@@ -1,12 +1,10 @@
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbonnate%2Fhit-counter&count_bg=%23007EFF&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Bonnate)
 
-</br>
+Hello 😊, I'm a fourth-year university student with 2 years of experience as a developer. I specialize in Unity client development and pride myself on my ability to adapt to various development environments. In addition, I have experience in server development, database management, 3D modeling, and UI design, covering a wide range of fields.
 
-👋 Hi, I’m Bonnate  
-👋 모두 안녕하세요. 오늘도 좋은 하루 보내세요! 👍 </br></br>
+I place a strong emphasis on problem-solving and collaboration skills, and I take pride in successfully leading projects through these abilities. I enjoy working in various roles and find satisfaction in achieving project goals through seamless communication and teamwork with fellow team members.
 
-> My Stacks 🛠
+</br></br> My Stacks ⚡
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"> <img src="https://img.shields.io/badge/Unreal Engine-FFFFFF?style=for-the-badge&logo=Unreal Engine&logoColor=000000">
 
@@ -14,16 +12,28 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=ffffff"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=ffffff"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=ffffff"> <img src="https://img.shields.io/badge/Java-d78a2e?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff"></br></br>
-<!--
-> My Activities 🛠
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff">
 
+</br></br> My Activities 🛠
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnate&layout=compact&count_private=true&card_width=445&border_radius=5&border_color=000000&bg_color=30,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=💻LANGUAGES)
-</br></br>
--->
-> My Works 🛠
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonnate&show_icons=true&count_private=true&card_width=495&border_radius=5&border_color=000000&bg_color=60,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=📈STATS)
+　![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnate&layout=compact&count_private=true&card_width=445&border_radius=5&border_color=000000&bg_color=30,94a9d1,f7cac8&title_color=ffffff&text_color=ffffff&custom_title=💻LANGUAGES)
 
-📑 블로그(티스토리) https://bonnate.tistory.com</br>
-🎮 itch.io https://bonnate.itch.io/</br>
-🕹️ Mate(Steam) https://store.steampowered.com/app/2004700/Mate/</br>
+</br></br> My Games 🕹️
+
+![](https://blog.kakaocdn.net/dn/bv3oIO/btszUrveKCa/PjngHQ7EkdjwEjwwtjQJKk/img.gif)
+![](https://blog.kakaocdn.net/dn/cuurN2/btszK4aACgy/fmR9tVs95PsBYye5GxOYvk/img.gif)
+![](https://blog.kakaocdn.net/dn/LjV4m/btszK2w6FdC/9EQYeneADdTGzvY8pAAds1/img.gif)
+![](https://blog.kakaocdn.net/dn/K75qS/btszTATup3A/2JJneDppXqpWVQSRTsnDC1/img.gif)
+![](https://blog.kakaocdn.net/dn/ZgDyz/btszLZ04ALl/KcQuoNmuLFwXhUrMrNMp20/img.gif)
+![](https://blog.kakaocdn.net/dn/bslAj8/btszMclEjmG/Xl5JVaBambd8LtHEn7RKO0/img.gif)
+![](https://blog.kakaocdn.net/dn/pTrdN/btszMdx8EFc/qMaBozoRKY46MZus4ZuxF1/img.gif)
+![](https://blog.kakaocdn.net/dn/nSRWv/btszK94baND/CxeZW4cxtMsDktTHcOXok0/img.gif)
+![](https://blog.kakaocdn.net/dn/tCsxy/btszTAFZaSk/T8uv80kHXBXovOSCAEeNoK/img.gif)
+![](https://blog.kakaocdn.net/dn/y75tl/btszVuZhJfN/kbtc759oMu6KMhRZ5nUy2k/img.gif)
+![](https://blog.kakaocdn.net/dn/T5e8R/btszLmoHpvl/9M56KoCJ6H4aA8cGKAmGOK/img.gif)
+![](https://blog.kakaocdn.net/dn/qf5hf/btszOLgXWBT/k7FLkjkd05lPqgEPhAcsyK/img.gif)
+
+</br></br> Other Sites 🔗 
+
+[📑Blog](https://bonnate.tistory.com/) | [🎮itch.io](https://bonnate.itch.io/) | [🕹️Steam](https://store.steampowered.com/app/2004700/Mate/)
