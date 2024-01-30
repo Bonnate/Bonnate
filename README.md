@@ -2,13 +2,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbonnate%2Fhit-counter&count_bg=%23007EFF&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Bonnate)
 
-Contact.
-Email: vldkdhtudrjs@gmail.com
-Phone: +821058330737
-
 Hello 😊, I'm a fourth-year university student with 2 years of experience as a developer. I specialize in Unity client development and pride myself on my ability to adapt to various development environments. In addition, I have experience in server development, database management, 3D modeling, and UI design, covering a wide range of fields.
 
 I place a strong emphasis on problem-solving and collaboration skills, and I take pride in successfully leading projects through these abilities. I enjoy working in various roles and find satisfaction in achieving project goals through seamless communication and teamwork with fellow team members.
+
+</br></br>
+Contact ✉️ </br>
+Email: vldkdhtudrjs@gmail.com </br>
+Phone: +821058330737
 
 </br></br> My Stacks ⚡
 
