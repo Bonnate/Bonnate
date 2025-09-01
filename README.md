@@ -1,6 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Bonnate's%20Github!👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=100)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbonnate%2Fhit-counter&count_bg=%23007EFF&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Bonnate)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Bonnate's%20Github!👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=100)
 
 Hello 😊, I'm a fourth-year university student with 2 years of experience as a developer. I specialize in Unity client development and pride myself on my ability to adapt to various development environments. In addition, I have experience in server development, database management, 3D modeling, and UI design, covering a wide range of fields.
 
@@ -13,11 +11,11 @@ Phone: +821058330737
 
 </br></br> My Stacks ⚡
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"> <img src="https://img.shields.io/badge/Unreal Engine-FFFFFF?style=for-the-badge&logo=Unreal Engine&logoColor=000000">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"> <img src="https://img.shields.io/badge/Unreal%20Engine-FFFFFF?style=for-the-badge&logo=Unreal%20Engine&logoColor=000000">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=ffffff">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=ffffff"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=ffffff"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=ffffff"> <img src="https://img.shields.io/badge/Java-d78a2e?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=ffffff"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=ffffff"> <img src="https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=C%20Sharp&logoColor=ffffff"> <img src="https://img.shields.io/badge/Java-d78a2e?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff">
 
