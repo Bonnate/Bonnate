@@ -9,7 +9,7 @@ I place a strong emphasis on problem-solving and collaboration, and I take pride
 </br></br>
 Contact  </br>
 ✉️ Email: vldkdhtudrjs@gmail.com </br>
-📝 Blog: [bonnate.tistory.com](https://bonnate.tistory.com)
+📝 Blog: [bonnate.tistory.com](https://bonnate.tistory.com) </br>
 📱 Phone: +82-10-5833-0737  
 
 </br></br> My Stacks ⚡
